@@ -1,0 +1,7 @@
+requests
+isodate
+yt_dlp
+vosk
+groq
+pytwitter
+ffmpeg-python
